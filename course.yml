@@ -4,10 +4,12 @@ programming_language: python
 difficulty_level: 1
 time_needed: 4 hours
 instructors:
-  - filip@datacamp.com
+  -xavi.cano@ibanus.cat
+  -diego.gamez@ibanus.cat
 collaborators:
   - vincent@datacamp.com
   - patrickvarilly@datacamp.com
+  - filip@datacamp.com
 description: Python is a general-purpose programming language that is becoming more and more popular 
   for doing data science. Companies worldwide are using Python to harvest insights from their 
   data and get a competitive edge. Unlike any other Python tutorial, this course focuses on Python specifically for data science. 
