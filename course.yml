@@ -1,5 +1,5 @@
 id: 735
-title: Intro to Python for Data Science
+title: Intro to Python for Secondary Schools
 programming_language: python
 difficulty_level: 1
 time_needed: 4 hours
@@ -15,6 +15,7 @@ description: Python is a general-purpose programming language that is becoming m
   data and get a competitive edge. Unlike any other Python tutorial, this course focuses on Python specifically for data science. 
   In our Intro to Python class, you will learn about powerful ways to store and manipulate data as well as cool data science tools to start your own analyses. 
   Enter DataCamp’s online Python curriculum.
+ Original document is Intro to Python for Data Science from DataCamp
 chapters:
   chapter1.md: 1842
   chapter2.md: 1851
