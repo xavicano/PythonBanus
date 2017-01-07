@@ -4,8 +4,8 @@ programming_language: python
 difficulty_level: 1
 time_needed: 4 hours
 instructors:
-  - xavi.cano@ibanus.cat
-  - diego.gamez@ibanus.cat
+  - "xavi.cano@ibanus.cat"
+  - "diego.gamez@ibanus.cat"
 collaborators:
   - vincent@datacamp.com
   - patrickvarilly@datacamp.com
